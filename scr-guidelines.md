@@ -37,6 +37,7 @@ Example special purpose repositories:
 * "devel": Contains live versions of core Sabayon packages, and can be used to develop future Sabayon improvements against upstream projects, such as the Calamares installer, or the Linux Kernel.
 * "gaming-live": Contains bleeding edge graphics drivers which may add new features or hardware support but may contain bugs or cause crashes.
 * "kde-unstable": Contains the very latest KDE packages, which haven't gone through the same level of QA as you would find for KDE versions made available via Entropy.
+* "pentesting": Contains various pentesting packages, mostly from [pentoo overlay](https://github.com/pentoo/pentoo-overlay/)
 
 ## Issues and Requests
 
