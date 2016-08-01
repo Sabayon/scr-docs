@@ -24,7 +24,7 @@ This flow diagram should help illustrate where a package belongs, and how to get
 
 ### Community Repository
 
-The Community Repository is the main repository made available through the SCR. It is intended to be suitable for all users and contains general packages requested by the community. You can be enable this repository with the following commands:
+The Community Repository is the main repository made available through the SCR. It is intended to be suitable for all users and contains general packages requested by the community. You can enable this repository with the following commands:
 
     enman add community
     equo update community
